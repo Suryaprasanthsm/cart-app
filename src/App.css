@@ -1,0 +1,24 @@
+.container{
+  padding: 20px;
+  
+}
+.opening{
+  display: flex;
+  flex-wrap: wrap;
+
+}
+.opening div{
+  padding: 30px;
+  border: 2px solid black;
+}
+.opening p{
+  text-align: center;
+  padding: 5px;
+  
+}
+.opening button{
+  justify-content: center;
+}
+.opening p button{
+  background-color: cadetblue;
+}
